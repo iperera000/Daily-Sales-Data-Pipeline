@@ -424,12 +424,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-
-
-<div align="center">
-
-Made with ❤️ by someone passionate about data engineering
-
-⭐ If this project helped you, please star it! ⭐
-
-</div>
